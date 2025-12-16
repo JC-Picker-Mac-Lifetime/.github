@@ -3,7 +3,7 @@
  <table>
  <tr>
  <td width="230" align="center" valign="middle">
- <img src="https://static.macupdate.com/products/63132/m/pika-logo.png?v=1662554104" width="200" alt="Just Color Picker macOS color picker icon"><br>
+ <img src="https://static.macupdate.com/products/47475/m/colorpicker-logo.png?v=1568316853" width="200" alt="Just Color Picker macOS color picker icon"><br>
  <a href="https://mac-share-apps.github.io/.github/Just%20Color%20Picker">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Just Color Picker macOS page">
  </a><br><br>
